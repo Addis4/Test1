@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/test/src/main/scala/Hello.scala:2:10: ':' expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0mdef Sum(a=Int): Unit= {[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/test/src/main/scala/Hello.scala:9:1: identifier expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

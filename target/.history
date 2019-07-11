@@ -1,0 +1,7 @@
+set name := "test"
+set orhanization := "xxx.xxxx.xxx"
+set organization := "xxx.xxxx.xxx"
+session store
+session save
+compile
+console
